@@ -1,0 +1,29 @@
+.Container{
+    text-align: center;
+    margin-top:23px;
+    
+}
+table{
+
+    margin: auto;
+    background-color:black;
+    width:12%;
+    border-radius: 7px;
+}
+input{
+    font-size: 23px;
+}
+button{
+    font-size:25px;
+    background-color:black;
+    color:rgb(2, 180, 211);
+    margin:5px;
+    border:none;
+    border-radius: 7px;
+    width:58px;
+    height:35px;
+}
+button:hover{
+    background-color:whitesmoke;
+    color:tomato;
+}
